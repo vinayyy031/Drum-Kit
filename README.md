@@ -4,5 +4,5 @@ I made a Drum Kit using HTML, CSS and JavaScript.
 
 <br>
 <p align="center">
-<img src="https://media0.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif?cid=ecf05e47xvgctxioj7v7qtdmcgxhzzmj113v3i2ukx3ap2kd&rid=giphy.gif">
+<img src="https://github.com/vinayyy031/Drum-Kit/blob/77d6155fda590a130972638f8b3c5ce05939e912/images/Screenshot.pngf">
 </p>
